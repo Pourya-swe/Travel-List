@@ -11,8 +11,12 @@ To indicate to some of it I would say that I **learned** and **practice**:
 - Splitting & Building layout into components
 - Organizing the project by splitting it into logical files and folders.
 - Rendering a list items in React.
-- Building a form and handling submission in React.
+- Building a form and handling **submission** in React.
 - Making a form input a **Controlled Eelement** to read and maintain our App in sync with it.
+- State management & Lifting state up - child to parent -
+- Child to Parent communications - Deleting, Upadting, and ect -
+- Derived State
+- The **Children** Prop - Making a resueable button -
 
 ## Q3: Why did I even learn these things?
 
